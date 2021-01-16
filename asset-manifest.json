@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Adventure/static/css/main.faeedcac.chunk.css",
-    "main.js": "/Adventure/static/js/main.06bd5838.chunk.js",
-    "main.js.map": "/Adventure/static/js/main.06bd5838.chunk.js.map",
-    "runtime-main.js": "/Adventure/static/js/runtime-main.0b180e76.js",
-    "runtime-main.js.map": "/Adventure/static/js/runtime-main.0b180e76.js.map",
-    "static/js/2.e4a09f45.chunk.js": "/Adventure/static/js/2.e4a09f45.chunk.js",
-    "static/js/2.e4a09f45.chunk.js.map": "/Adventure/static/js/2.e4a09f45.chunk.js.map",
-    "index.html": "/Adventure/index.html",
-    "static/css/main.faeedcac.chunk.css.map": "/Adventure/static/css/main.faeedcac.chunk.css.map",
-    "static/js/2.e4a09f45.chunk.js.LICENSE.txt": "/Adventure/static/js/2.e4a09f45.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Adventure/static/media/img-8.fabdf94d.jpg"
+    "main.css": "/React-Adventure/static/css/main.e7c01aee.chunk.css",
+    "main.js": "/React-Adventure/static/js/main.06bd5838.chunk.js",
+    "main.js.map": "/React-Adventure/static/js/main.06bd5838.chunk.js.map",
+    "runtime-main.js": "/React-Adventure/static/js/runtime-main.3515fef6.js",
+    "runtime-main.js.map": "/React-Adventure/static/js/runtime-main.3515fef6.js.map",
+    "static/js/2.e4a09f45.chunk.js": "/React-Adventure/static/js/2.e4a09f45.chunk.js",
+    "static/js/2.e4a09f45.chunk.js.map": "/React-Adventure/static/js/2.e4a09f45.chunk.js.map",
+    "index.html": "/React-Adventure/index.html",
+    "static/css/main.e7c01aee.chunk.css.map": "/React-Adventure/static/css/main.e7c01aee.chunk.css.map",
+    "static/js/2.e4a09f45.chunk.js.LICENSE.txt": "/React-Adventure/static/js/2.e4a09f45.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-Adventure/static/media/img-8.fabdf94d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0b180e76.js",
+    "static/js/runtime-main.3515fef6.js",
     "static/js/2.e4a09f45.chunk.js",
-    "static/css/main.faeedcac.chunk.css",
+    "static/css/main.e7c01aee.chunk.css",
     "static/js/main.06bd5838.chunk.js"
   ]
 }
