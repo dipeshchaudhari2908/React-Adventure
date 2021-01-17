@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Adventure/static/css/main.e8dafb12.chunk.css",
-    "main.js": "/React-Adventure/static/js/main.7e93732f.chunk.js",
-    "main.js.map": "/React-Adventure/static/js/main.7e93732f.chunk.js.map",
+    "main.css": "/React-Adventure/static/css/main.ca078015.chunk.css",
+    "main.js": "/React-Adventure/static/js/main.c20caa0f.chunk.js",
+    "main.js.map": "/React-Adventure/static/js/main.c20caa0f.chunk.js.map",
     "runtime-main.js": "/React-Adventure/static/js/runtime-main.3515fef6.js",
     "runtime-main.js.map": "/React-Adventure/static/js/runtime-main.3515fef6.js.map",
-    "static/js/2.e4a09f45.chunk.js": "/React-Adventure/static/js/2.e4a09f45.chunk.js",
-    "static/js/2.e4a09f45.chunk.js.map": "/React-Adventure/static/js/2.e4a09f45.chunk.js.map",
+    "static/js/2.d60f518c.chunk.js": "/React-Adventure/static/js/2.d60f518c.chunk.js",
+    "static/js/2.d60f518c.chunk.js.map": "/React-Adventure/static/js/2.d60f518c.chunk.js.map",
     "index.html": "/React-Adventure/index.html",
-    "static/css/main.e8dafb12.chunk.css.map": "/React-Adventure/static/css/main.e8dafb12.chunk.css.map",
-    "static/js/2.e4a09f45.chunk.js.LICENSE.txt": "/React-Adventure/static/js/2.e4a09f45.chunk.js.LICENSE.txt",
+    "static/css/main.ca078015.chunk.css.map": "/React-Adventure/static/css/main.ca078015.chunk.css.map",
+    "static/js/2.d60f518c.chunk.js.LICENSE.txt": "/React-Adventure/static/js/2.d60f518c.chunk.js.LICENSE.txt",
     "static/media/App.css": "/React-Adventure/static/media/img-8.fabdf94d.jpg",
     "static/media/img-4.a31875b7.jpg": "/React-Adventure/static/media/img-4.a31875b7.jpg",
     "static/media/img-5.7fadbe1b.jpg": "/React-Adventure/static/media/img-5.7fadbe1b.jpg",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3515fef6.js",
-    "static/js/2.e4a09f45.chunk.js",
-    "static/css/main.e8dafb12.chunk.css",
-    "static/js/main.7e93732f.chunk.js"
+    "static/js/2.d60f518c.chunk.js",
+    "static/css/main.ca078015.chunk.css",
+    "static/js/main.c20caa0f.chunk.js"
   ]
 }
