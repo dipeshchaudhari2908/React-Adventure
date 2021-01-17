@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Adventure/static/css/main.e8dafb12.chunk.css",
-    "main.js": "/React-Adventure/static/js/main.6004e44c.chunk.js",
-    "main.js.map": "/React-Adventure/static/js/main.6004e44c.chunk.js.map",
+    "main.js": "/React-Adventure/static/js/main.7e93732f.chunk.js",
+    "main.js.map": "/React-Adventure/static/js/main.7e93732f.chunk.js.map",
     "runtime-main.js": "/React-Adventure/static/js/runtime-main.3515fef6.js",
     "runtime-main.js.map": "/React-Adventure/static/js/runtime-main.3515fef6.js.map",
     "static/js/2.e4a09f45.chunk.js": "/React-Adventure/static/js/2.e4a09f45.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.3515fef6.js",
     "static/js/2.e4a09f45.chunk.js",
     "static/css/main.e8dafb12.chunk.css",
-    "static/js/main.6004e44c.chunk.js"
+    "static/js/main.7e93732f.chunk.js"
   ]
 }
