@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/React-Adventure/static/css/main.ca078015.chunk.css",
-    "main.js": "/React-Adventure/static/js/main.c20caa0f.chunk.js",
-    "main.js.map": "/React-Adventure/static/js/main.c20caa0f.chunk.js.map",
+    "main.css": "/React-Adventure/static/css/main.09f6b3a0.chunk.css",
+    "main.js": "/React-Adventure/static/js/main.05333abd.chunk.js",
+    "main.js.map": "/React-Adventure/static/js/main.05333abd.chunk.js.map",
     "runtime-main.js": "/React-Adventure/static/js/runtime-main.3515fef6.js",
     "runtime-main.js.map": "/React-Adventure/static/js/runtime-main.3515fef6.js.map",
-    "static/js/2.d60f518c.chunk.js": "/React-Adventure/static/js/2.d60f518c.chunk.js",
-    "static/js/2.d60f518c.chunk.js.map": "/React-Adventure/static/js/2.d60f518c.chunk.js.map",
+    "static/js/2.ea3862fb.chunk.js": "/React-Adventure/static/js/2.ea3862fb.chunk.js",
+    "static/js/2.ea3862fb.chunk.js.map": "/React-Adventure/static/js/2.ea3862fb.chunk.js.map",
     "index.html": "/React-Adventure/index.html",
-    "static/css/main.ca078015.chunk.css.map": "/React-Adventure/static/css/main.ca078015.chunk.css.map",
-    "static/js/2.d60f518c.chunk.js.LICENSE.txt": "/React-Adventure/static/js/2.d60f518c.chunk.js.LICENSE.txt",
+    "static/css/main.09f6b3a0.chunk.css.map": "/React-Adventure/static/css/main.09f6b3a0.chunk.css.map",
+    "static/js/2.ea3862fb.chunk.js.LICENSE.txt": "/React-Adventure/static/js/2.ea3862fb.chunk.js.LICENSE.txt",
     "static/media/App.css": "/React-Adventure/static/media/img-8.fabdf94d.jpg",
+    "static/media/img-10.19a9ec70.jpg": "/React-Adventure/static/media/img-10.19a9ec70.jpg",
+    "static/media/img-11.32d3c8d3.jpg": "/React-Adventure/static/media/img-11.32d3c8d3.jpg",
+    "static/media/img-12.c50e718d.jpg": "/React-Adventure/static/media/img-12.c50e718d.jpg",
+    "static/media/img-14.208a817d.png": "/React-Adventure/static/media/img-14.208a817d.png",
+    "static/media/img-15.d01f2a2e.png": "/React-Adventure/static/media/img-15.d01f2a2e.png",
+    "static/media/img-16.73f05bc9.png": "/React-Adventure/static/media/img-16.73f05bc9.png",
+    "static/media/img-3.6d683c0e.jpg": "/React-Adventure/static/media/img-3.6d683c0e.jpg",
     "static/media/img-4.a31875b7.jpg": "/React-Adventure/static/media/img-4.a31875b7.jpg",
     "static/media/img-5.7fadbe1b.jpg": "/React-Adventure/static/media/img-5.7fadbe1b.jpg",
     "static/media/img-6.047226b0.jpg": "/React-Adventure/static/media/img-6.047226b0.jpg",
@@ -19,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3515fef6.js",
-    "static/js/2.d60f518c.chunk.js",
-    "static/css/main.ca078015.chunk.css",
-    "static/js/main.c20caa0f.chunk.js"
+    "static/js/2.ea3862fb.chunk.js",
+    "static/css/main.09f6b3a0.chunk.css",
+    "static/js/main.05333abd.chunk.js"
   ]
 }
