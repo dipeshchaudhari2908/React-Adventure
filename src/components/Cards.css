@@ -49,6 +49,7 @@
     width: 100%;
     padding-top: 67%;
     overflow: hidden;
+    display: flex;
   }
   
   .fade-img {
